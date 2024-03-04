@@ -1,0 +1,4 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as _C__Users_Oliver_Documents_GitHub_webudvikling_Wonderland_Engine_wonderland_engine_examples_master_collision_move_js from 'C:/Users/Oliver/Documents/GitHub/webudvikling/Wonderland Engine/wonderland-engine-examples-master/collision/move.js';
+_registerEditor(_C__Users_Oliver_Documents_GitHub_webudvikling_Wonderland_Engine_wonderland_engine_examples_master_collision_move_js);
